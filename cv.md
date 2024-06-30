@@ -36,3 +36,4 @@ _I was just following my own path._
 
 - number of phone: 098 269 6764
 - email: isdaniil62@gmail.com
+- discord: .bumbox.
