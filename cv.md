@@ -1,20 +1,38 @@
-# Даниил Ищенко
+# Daniil Ishchenko
 
-___Студент Технологическо-Экономического Днепропетровского Колледжa___
+___Student of Technological and Economic Dnepropetrovsk College___
+
+I am applying for a bachelor's degree in the profession "Software Engineer"
+
+## Experience
+
+___Absent___
 
 
-## Опыт работы
+## About Me
 
-___Отсутсвует___
+> A samurai has no goal, only a path
 
-## Достижения
+That's pretty much how you can describe me, and that's how I got here.
 
-1. _Делал несколько pet-projects_ 
-2. _Изучил HTML/CSS & JS_
-3. _Использовал библиотеку Sliders.js_
-4. _Начал учить английский_
-5. _Перестал бояться женщин_
+_I was just following my own path._
 
-Ну и на последок цитата:
+## Achievements
 
-> Волк в цирке не выступает, АУФ
+1. _I did several pet-projects_ 
+2. _Used the Sliders.js library_
+3. _Started learning English_
+4. _Stopped being afraid of women_
+
+## Hard Skills
+
+- _HTML/CSS & JS_
+- _GitHub_
+- _Adaptive layout: Media queries_
+- _CSS Flex and Grid_
+- _English level of speaking: A2_
+
+## Contacts 
+
+- number of phone: 098 269 6764
+- email: isdaniil62@gmail.com
