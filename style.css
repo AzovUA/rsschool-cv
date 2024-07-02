@@ -9,7 +9,6 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    overflow: hidden;
 }
 
 h3 {
@@ -104,4 +103,73 @@ footer p {
     margin: 5px 0 0;
     color: #333;
     font-size: 14px;
+}
+
+.title {
+    margin-bottom: 50px;
+}
+
+.list_menu {
+    margin: 20px 0;
+}
+
+.list_menu a {
+    text-decoration: none;
+    font-size: 25px;
+    color: white;
+    border-left: 2px solid #F5B7c7;
+    padding-left: 5px;
+    transition: all 0.3s ease;
+}
+
+.list_menu li{
+    list-style-type: none;
+}
+
+.list_menu a:hover {
+    border-left: 2px solid #F5B7c7;
+    padding-left: 10px;
+    transition: all 0.3s ease;
+}
+
+.menu {
+    position: fixed;
+    top: 0;
+    left: -300px;
+    width: 270px;
+    height: 100vh;
+    padding: 25vh 50px;
+    background: rgba(20, 20, 20, 0.3);
+    backdrop-filter: blur(16px);
+    border-right: 7px solid white;
+    transition: left 0.3s ease;
+}
+
+.menu.open {
+    left: 0;
+}
+
+.menu-toggle {
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    font-size: 30px;
+    cursor: pointer;
+    color: #333;
+}
+
+.menu-toggle .fa-times {
+    display: none;
+}
+
+.menu-toggle.open .fa-bars {
+    display: none;
+}
+
+.menu-toggle.open .fa-times {
+    display: inline;
+}
+
+.title span {
+    color: #F5B7c7;
 }
